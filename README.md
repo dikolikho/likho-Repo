@@ -1,2 +1,3 @@
 # likho-Repo
 I am a dedicated and committed recent graduate in Computer Science and Chemistry with a sound understanding of the importance of hard work. I believe in six principles: hard work, emotional intelligence, team work, respect, integrity and respect for cultural diversity. I pay attention to detail and the nature of my Degree has stimulated my thinking and understanding of complex problems and provided me with excellent problem solving ability. I am determined to make a success of everything I do.
+IM currently busy doing C#, SQL database Management, HTML 5, CSS and Javascripts. I hold introduction to Python and BSc computer Science doing Java.
